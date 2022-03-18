@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IMVillarosa
 - 👀 I’m interested in expanding my knowledge and skills to be a successful developer.
-- 🌱 I’m currently learning web development and doing my best to complete #100DaysOfCode challenge
-- 📫 How to reach me: navilaicram4@gmail.com
+- 🌱 I’m currently learning web development as I manifest my first developer job!
+- 📫 How to reach me: ivanmarcialvillarosa@gmail.com
